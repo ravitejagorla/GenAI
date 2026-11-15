@@ -7,7 +7,7 @@ from langchain_community.utilities import SQLDatabase
 from langchain_community.agent_toolkits import SQLDatabaseToolkit
 load_dotenv()
 st.title('Ai assistent')
-db = SQLDatabase.from_uri("sqlite:///my_tasks.db")
+db = SQLDatabase.from_uri("sqlite:///dbs/my_tasks.db")
 db.run(
     """
         CREATE TABLE IF NOT EXISTS tasks (

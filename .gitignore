@@ -1,4 +1,5 @@
 .env
 venv/
 venv/*
-my_tasks.db
+dbs/
+dbs/*
