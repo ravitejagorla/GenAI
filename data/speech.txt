@@ -1,0 +1,23 @@
+Good morning everyone!
+
+First of all, thank you for giving me this opportunity to introduce myself.
+
+My name is Ravi Teja Gorla, and I am from Chirala, Andhra Pradesh.
+
+I completed my Bachelor of Technology in Mechanical Engineering from Karunya Institute of Technology and Sciences in 2022.
+
+Although my academic background is in Mechanical Engineering, I developed a strong interest in software development and decided to build my career in the IT industry.
+
+I have professional experience working with Python, Django, Django REST Framework, Angular, JavaScript, TypeScript, React, and databases like MySQL and PostgreSQL.
+
+I have worked on several projects, including ERP applications, healthcare management systems, and web applications. I have also gained experience working in a team environment and taking responsibility for development tasks.
+
+Currently, I am expanding my knowledge in Artificial Intelligence, Generative AI, LangChain, LangGraph, and building AI-powered applications. I am also working on my personal projects, including an AI assistant called Remi and other projects that I maintain on GitHub.
+
+I would describe myself as a curious, self-motivated, and practical learner. I enjoy solving problems, exploring new technologies, and building applications rather than just learning theory.
+
+My short-term goal is to become a strong full-stack Python developer and gain experience working on real-world applications. My long-term goal is to become an experienced software engineer who can design and develop intelligent, scalable applications.
+
+That's a brief introduction about myself.
+
+Thank you!
